@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
+* Pursuing Bachelor of Technology at LPU
+* Student at Lovely Professional University
 
-<!--
-**asmeet2003/asmeet2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=asmeet2003&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/asmeet2003) <br>
+-
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitors Count
+![Count](https://profile-counter.glitch.me/asmeet2003/count.svg)
+-
+## Contact
+<a href="mailto:asmeet0011@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/860/860758.png" alt="gmail" length=50 width=50></img></a>
+<a href="https://linkedin.com/in/asmeet-arora-5b81a9222"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin" length=50 width=50></img></a>
